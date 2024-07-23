@@ -21,7 +21,10 @@ const config: Config = {
         tertiary: '#676262',
         balance: '#FFFFFF',
       },
-      label: '#EF7F0D',
+      label: {
+        primary: '#EF7F0D',
+        hover: '#AC5B09',
+      },
     },
   },
   plugins: [],
