@@ -20,6 +20,7 @@ const config: Config = {
         secondary: '#000000',
         tertiary: '#676262',
         balance: '#FFFFFF',
+        background: '#D9D9D9',
       },
       label: {
         primary: '#EF7F0D',
