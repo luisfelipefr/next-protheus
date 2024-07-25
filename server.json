@@ -1,0 +1,10 @@
+{
+    "products": [
+        {"CFOP": "2201", "NCM": "10063021", "DESC": "ARROZ CEREAL FORA DE TIPO 5K", "ALIQ" : "20", "QTDE": "9", "VLOR": "170", "BASE": "170", "ICMS": "34" },
+        {"CFOP": "2201", "NCM": "10063021", "DESC": "ARROZ CEREAL FORA DE TIPO 5K", "ALIQ" : "20", "QTDE": "9", "VLOR": "170", "BASE": "170", "ICMS": "34" },
+        {"CFOP": "2201", "NCM": "10063021", "DESC": "ARROZ CEREAL FORA DE TIPO 5K", "ALIQ" : "20", "QTDE": "9", "VLOR": "170", "BASE": "170", "ICMS": "34" },
+        {"CFOP": "2201", "NCM": "10063021", "DESC": "ARROZ CEREAL FORA DE TIPO 5K", "ALIQ" : "20", "QTDE": "9", "VLOR": "170", "BASE": "170", "ICMS": "34" },
+        {"CFOP": "2201", "NCM": "10063021", "DESC": "ARROZ CEREAL FORA DE TIPO 5K", "ALIQ" : "20", "QTDE": "9", "VLOR": "170", "BASE": "170", "ICMS": "34" },
+        {"CFOP": "2201", "NCM": "10063021", "DESC": "ARROZ CEREAL FORA DE TIPO 5K", "ALIQ" : "20", "QTDE": "9", "VLOR": "170", "BASE": "170", "ICMS": "34" }
+    ]
+}
